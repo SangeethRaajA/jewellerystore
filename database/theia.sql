@@ -141,7 +141,7 @@ INSERT INTO `products` ( `product_id`, `product_collection`, `product_jewelry`, 
 (17, 2, 4, 'Diamond Necklace', 4400, 'DN', 'd7.jpg', 'diamond necklace canada'),
 (18, 2, 4, 'Diamond Necklace 2', 3400, 'DN', 'd8.jpg', 'diamond necklace bangalesh'),
 (19, 2, 5, 'Diamond Watch', 1500, 'DW', 'd9.jpg', 'diamond watch dubai'),
-(20, 2, 5, 'Diamond Watch 2', 3000, 'DW', 'd10.jpg', 'diamond watch italy');
+(20, 2, 5, 'Diamond Watch 2', 3000, 'DW', 'd10.jpg', 'diamond watch italy'),
 
 (21, 3, 1, 'Diamond Pendent', 1100, 'DP', 'p1.jpg', 'diamond Pendent france'),
 (22, 3, 1, 'Diamond Pendent 2', 1600, 'DP', 'p2.jpg', 'diamond Pendent italy'),
@@ -152,7 +152,7 @@ INSERT INTO `products` ( `product_id`, `product_collection`, `product_jewelry`, 
 (27, 3, 4, 'Diamond Necklace', 4400, 'DN', 'p7.jpg', 'diamond necklace canada'),
 (28, 3, 4, 'Diamond Necklace 2', 3400, 'DN', 'p8.jpg', 'diamond necklace bangalesh'),
 (29, 3, 5, 'Diamond Watch', 1500, 'DW', 'p9.jpg', 'diamond watch dubai'),
-(30, 3, 5, 'Diamond Watch 2', 3000, 'DW', 'p10.jpg', 'diamond watch italy');
+(30, 3, 5, 'Diamond Watch 2', 3000, 'DW', 'p10.jpg', 'diamond watch italy'),
 
 (31, 4, 1, 'Diamond Pendent', 1100, 'DP', 's1.jpg', 'diamond Pendent france'),
 (32, 4, 1, 'Diamond Pendent 2', 1600, 'DP', 's2.jpg', 'diamond Pendent italy'),
@@ -163,7 +163,7 @@ INSERT INTO `products` ( `product_id`, `product_collection`, `product_jewelry`, 
 (37, 4, 4, 'Diamond Necklace', 4400, 'DN', 's7.jpg', 'diamond necklace canada'),
 (38, 4, 4, 'Diamond Necklace 2', 3400, 'DN', 's8.jpg', 'diamond necklace bangalesh'),
 (39, 4, 5, 'Diamond Watch', 1500, 'DW', 's9.jpg', 'diamond watch dubai'),
-(40, 4, 5, 'Diamond Watch 2', 3000, 'DW', 's10.jpg', 'diamond watch italy');
+(40, 4, 5, 'Diamond Watch 2', 3000, 'DW', 's10.jpg', 'diamond watch italy'),
 
 (41, 5, 1, 'Diamond Pendent', 1100, 'DP', 'm1.jpg', 'diamond Pendent france'),
 (42, 5, 1, 'Diamond Pendent 2', 1600, 'DP', 'm2.jpg', 'diamond Pendent italy'),
