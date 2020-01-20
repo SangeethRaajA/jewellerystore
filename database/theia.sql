@@ -16,10 +16,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `khanstore`
---
-
 -- --------------------------------------------------------
 
 --
@@ -146,6 +142,40 @@ INSERT INTO `products` ( `product_id`, `product_collection`, `product_jewelry`, 
 (18, 2, 4, 'Diamond Necklace 2', 3400, 'DN', 'd8.jpg', 'diamond necklace bangalesh'),
 (19, 2, 5, 'Diamond Watch', 1500, 'DW', 'd9.jpg', 'diamond watch dubai'),
 (20, 2, 5, 'Diamond Watch 2', 3000, 'DW', 'd10.jpg', 'diamond watch italy');
+
+(21, 3, 1, 'Diamond Pendent', 1100, 'DP', 'p1.jpg', 'diamond Pendent france'),
+(22, 3, 1, 'Diamond Pendent 2', 1600, 'DP', 'p2.jpg', 'diamond Pendent italy'),
+(23, 3, 2, 'Diamond Ring', 1300, 'DR', 'p3.jpg', 'diamond ring singapore'),
+(24, 3, 2, 'Diamond Ring 2', 1200, 'DR', 'p4.jpg', 'diamond ring germany'),
+(25, 3, 3, 'Diamond Earring', 1100, 'DE', 'p5.jpg', 'diamond earring india'),
+(26, 3, 3, 'Diamond Earring 2', 4500, 'DE', 'p6.jpg', 'diamond earring italy'),
+(27, 3, 4, 'Diamond Necklace', 4400, 'DN', 'p7.jpg', 'diamond necklace canada'),
+(28, 3, 4, 'Diamond Necklace 2', 3400, 'DN', 'p8.jpg', 'diamond necklace bangalesh'),
+(29, 3, 5, 'Diamond Watch', 1500, 'DW', 'p9.jpg', 'diamond watch dubai'),
+(30, 3, 5, 'Diamond Watch 2', 3000, 'DW', 'p10.jpg', 'diamond watch italy');
+
+(31, 4, 1, 'Diamond Pendent', 1100, 'DP', 's1.jpg', 'diamond Pendent france'),
+(32, 4, 1, 'Diamond Pendent 2', 1600, 'DP', 's2.jpg', 'diamond Pendent italy'),
+(33, 4, 2, 'Diamond Ring', 1300, 'DR', 's3.jpg', 'diamond ring singapore'),
+(34, 4, 2, 'Diamond Ring 2', 1200, 'DR', 's4.jpg', 'diamond ring germany'),
+(35, 4, 3, 'Diamond Earring', 1100, 'DE', 's5.jpg', 'diamond earring india'),
+(36, 4, 3, 'Diamond Earring 2', 4500, 'DE', 's6.jpg', 'diamond earring italy'),
+(37, 4, 4, 'Diamond Necklace', 4400, 'DN', 's7.jpg', 'diamond necklace canada'),
+(38, 4, 4, 'Diamond Necklace 2', 3400, 'DN', 's8.jpg', 'diamond necklace bangalesh'),
+(39, 4, 5, 'Diamond Watch', 1500, 'DW', 's9.jpg', 'diamond watch dubai'),
+(40, 4, 5, 'Diamond Watch 2', 3000, 'DW', 's10.jpg', 'diamond watch italy');
+
+(41, 5, 1, 'Diamond Pendent', 1100, 'DP', 'm1.jpg', 'diamond Pendent france'),
+(42, 5, 1, 'Diamond Pendent 2', 1600, 'DP', 'm2.jpg', 'diamond Pendent italy'),
+(43, 5, 2, 'Diamond Ring', 1300, 'DR', 'm3.jpg', 'diamond ring singapore'),
+(44, 5, 2, 'Diamond Ring 2', 1200, 'DR', 'm4.jpg', 'diamond ring germany'),
+(45, 5, 3, 'Diamond Earring', 1100, 'DE', 'm5.jpg', 'diamond earring india'),
+(46, 5, 3, 'Diamond Earring 2', 4500, 'DE', 'm6.jpg', 'diamond earring italy'),
+(47, 5, 4, 'Diamond Necklace', 4400, 'DN', 'm7.jpg', 'diamond necklace canada'),
+(48, 5, 4, 'Diamond Necklace 2', 3400, 'DN', 'm8.jpg', 'diamond necklace bangalesh'),
+(49, 5, 5, 'Diamond Watch', 1500, 'DW', 'm9.jpg', 'diamond watch dubai'),
+(50, 5, 5, 'Diamond Watch 2', 3000, 'DW', 'm10.jpg', 'diamond watch italy');
+
 
 -- --------------------------------------------------------
 
